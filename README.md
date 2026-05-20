@@ -16,3 +16,8 @@ Understanding file organization and website structure
 Practicing semantic and clean HTML coding
 
 Overall, this project helps build a strong foundation in HTML before improving the website later with CSS for styling and better design.
+
+Links to the photos I used:
+https://arbuz.com/recipes/somsa-samosa-sambusa/
+https://arbuz.com/recipes/eggplant-soup/
+https://arbuz.com/recipes/uzbek-plov/
